@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "gta6logo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
